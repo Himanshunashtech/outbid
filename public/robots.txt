@@ -1,0 +1,7 @@
+# Robots.txt for Outbid by IndiHunt
+User-agent: *
+Allow: /
+Disallow: /dashboard
+
+# Sitemaps
+Sitemap: https://outbid.indihunt.in/sitemap.xml
